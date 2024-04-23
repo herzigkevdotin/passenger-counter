@@ -27,9 +27,9 @@
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(0, 0, 0);
-    padding: 30px;
+    padding: 1.5rem;
     background-color: yellowgreen;
-    margin: 60px 0 30px 0;
+    margin: 2rem 0 2rem 0;
     box-shadow: 4px 8px 8px rgba(0, 0, 0, 0.233);
     border-radius: 100vh;
 
@@ -38,12 +38,12 @@ h1 {
 }
 
 h2 {
-    margin: 20px;
+    margin: 1rem;
     font-family: Arial, Helvetica, sans-serif;
     color: red;
     background-color: yellowgreen;
-    padding: 20px 50px;
-    font-size: 50px;
+    padding: 1rem 2rem;
+    font-size: 3rem;
     box-shadow: 4px 8px 8px rgba(0, 0, 0, 0.233);
     border-radius: 100vh;
     
@@ -52,11 +52,11 @@ h2 {
 
 h4 {
 
-    padding: 20px;
+    padding: 1rem;
     border-radius: 100vh;
     background-color: rgba(0, 128, 128, 0.856);
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 1rem;
     color: yellowgreen;
     box-shadow: 4px 8px 8px rgba(0, 0, 0, 0.233);
     
@@ -75,7 +75,7 @@ p {
 }
 
 .buttons {
-    margin: 20px; 
+    margin: 2rem; 
     display: flex;
     gap: 20px;
 
@@ -83,9 +83,9 @@ p {
 
 button {
     border: none;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 2rem;
     color: white;
+    font-size: 1.5rem;
     font-weight: bold;
     width: 200px;
     margin-bottom: 5px;
